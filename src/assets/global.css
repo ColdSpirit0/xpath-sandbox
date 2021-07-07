@@ -81,3 +81,26 @@ html, body, #app {
     color: #ffa700;
     white-space: pre-line;
 }
+
+/* links panel */
+
+.links {
+    margin: 0 20px;
+}
+
+.links a {
+    width: 30px;
+    height: 30px;
+    display: block;
+}
+
+.page-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.links .github {
+    background: url("./icons/github-icon.png");
+    background-size: contain;
+}

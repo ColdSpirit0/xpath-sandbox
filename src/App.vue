@@ -8,6 +8,9 @@
             </div>
             <div class="page-title">
                 <h1>{{ $route.name }}</h1>
+                <div class="links">
+                    <a class="github" href="https://github.com/ColdSpirit0/xpath-sandbox" title="GitHub source"></a>
+                </div>
             </div>
         </div>
         <div class="container">
