@@ -21,6 +21,6 @@ git commit -m 'deploy'
 
 # если вы публикуете по адресу https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
-git push https://github.com/ColdSpirit0/xpath-sandbox.git master:gh-pages
+git push -f https://github.com/ColdSpirit0/xpath-sandbox.git master:gh-pages
 
 cd -
