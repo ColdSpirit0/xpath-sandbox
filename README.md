@@ -1,6 +1,6 @@
 # xpath-sandbox
 
-Fully client-side open source sandbox to test selectors.
+Fully client-side open-source sandbox for testing selectors.
 
 URL to sandbox: https://coldspirit0.github.io/xpath-sandbox/
 
